@@ -15,5 +15,6 @@ public class Main {
         System.out.println("like");
         System.out.println("....");
         System.out.println("YOUUUU");
+        System.out.println("fantastico");
     }
 }
