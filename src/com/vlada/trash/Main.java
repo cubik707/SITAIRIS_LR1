@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Excellent");
         System.out.println("thats great");
         System.out.println("well...");
+        System.out.printf("dddd");
         System.out.printf("someone");
         System.out.println("like");
         System.out.println("....");
