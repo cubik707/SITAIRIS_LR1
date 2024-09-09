@@ -3,7 +3,7 @@ package com.vlada.trash;
 public class ImprovedMessageCreator extends MessageCreator {
     @Override
     public String printHelloToPeople(int countOfPeople) {
-        return "Hello "+countOfPeople;
+        return "Hello  "+countOfPeople;
     }
 
     @Override
