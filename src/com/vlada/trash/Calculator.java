@@ -8,6 +8,6 @@ public class Calculator implements Powable {
 
     @Override
     public int calculateSum(int a, int b) {
-        return a + b;
+        return a + b + a;
     }
 }
