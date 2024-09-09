@@ -12,5 +12,7 @@ public class Main {
         System.out.println("well...");
         System.out.printf("someone");
         System.out.println("like");
+        System.out.println("....");
+        System.out.println("YOUUUU");
     }
 }
