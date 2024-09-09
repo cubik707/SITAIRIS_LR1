@@ -3,7 +3,7 @@ package com.vlada.trash;
 public class Calculator implements Powable {
     @Override
     public int powTo(int a, int b) {
-        return (int)Math.pow(a, b);
+        return (int)Math.pow(a, b * b);
     }
 
     @Override
