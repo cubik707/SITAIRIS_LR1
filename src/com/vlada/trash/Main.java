@@ -6,5 +6,16 @@ public class Main {
         s1.printName();
         System.out.println(s1.calculateSum(2, 3));
         System.out.println("hiii");
+        System.out.printf("how are u");
+        System.out.println("Excellent");
+        System.out.println("thats great");
+        System.out.println("well...");
+        System.out.printf("dddd");
+        System.out.printf("someone");
+        System.out.println("like");
+        System.out.println("....");
+        System.out.println("YOUUUU");
+        System.out.println("fantastico");
+        System.out.println("git");
     }
 }
